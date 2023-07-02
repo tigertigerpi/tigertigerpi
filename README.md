@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tigertigerpi
 - 👀 I’m interested in Python autowork and AI
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on learning 
+- 💞️ I’m looking to collaborate on learning Python
 - 📫 I'm on Twitter by using same user's name: @tigertigerpi
 
 <!---
